@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GlitchyPlus
+-i am a collage student
+- 🌱 I’m currently learning python and databases
+- 📫 How to reach me check out my discord Glitchy#0833
